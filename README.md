@@ -88,7 +88,7 @@ php artisan serve
 
 ```
 {{url}}    => http://127.0.0.1:8000/api
-{{token}}  => <your generated Sanctum token>
+{{token}}  => <your generated Sanctum token> => will be added automatically 
 ```
 
 3. Use the folders:
