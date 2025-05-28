@@ -4,30 +4,20 @@ A simplified content scheduling web application built with Laravel + Tailwind + 
 
 ## 🚀 Demo Preview
 
-### Dashboard with Analytics and Calendar
-![Dashboard](./public/screenshots/dashboard.jpeg)
-
-### Posts Management with Filters
-![Posts](./public/screenshots/posts.jpeg)
-
-### Platform Settings Page
-![Settings](./public/screenshots/settings.jpeg)
-
 ### Postman Collection Setup
-![Postman](./public/screenshots/postman.png)
-
+[ https://drive.google.com/drive/u/1/home
+](https://drive.google.com/file/d/1ec336GL1BA22h90DADXPc6B6p_HzLyKX/view?usp=sharing)
 ---
 
 ## 🧩 Features
 
-- ✅ Register/Login via Laravel Sanctum
+- ✅ Register/Login via Laravel Sanctum / Laravel breeze
 - ✅ Create & Schedule Posts (Draft / Scheduled / Published)
 - ✅ Platform selection per post (Twitter, Instagram, etc.)
 - ✅ Calendar view with scheduled post indicators
 - ✅ Post Analytics (counts, success rate, per-platform data)
 - ✅ Platform toggling in settings
 - ✅ Character limit validations
-- ✅ Activity logging
 - ✅ Daily scheduling limit (max 10 per user)
 
 ---
